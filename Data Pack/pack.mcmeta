@@ -1,0 +1,9 @@
+{
+	"pack": {
+		"pack_format": 48,
+		"description": {
+			"translate": "datapack.eat11apple-music.description2",
+			"fallback": "Add new Jukebox Songs for the game"
+		}
+	}
+}

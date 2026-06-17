@@ -1,0 +1,81 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		{
+			"item": "minecraft:disc_fragment_5"
+		},
+		{
+			"item": "minecraft:disc_fragment_5"
+		},
+		{
+			"item": "minecraft:disc_fragment_5"
+		},
+		{
+			"item": "minecraft:disc_fragment_5"
+		},
+		{
+			"item": "minecraft:disc_fragment_5"
+		},
+		{
+			"item": "minecraft:disc_fragment_5"
+		},
+		{
+			"item": "minecraft:gold_ingot"
+		},
+		{
+			"item": "minecraft:gold_ingot"
+		},
+		{
+			"item": "minecraft:gold_ingot"
+		}
+	],
+	"result": {
+		"count": 1,
+		"id": "minecraft:music_disc_13",
+		"components": {
+			"jukebox_playable": {
+				"song": "eat11apple-music:gjmmczzn"
+			},
+			"minecraft:rarity": "rare",
+			"minecraft:custom_data": {
+				"author": {
+					"Bilibili": {
+						"country_version": "Chinese",
+						"is_the_real_name": 0,
+						"real_name": "哔哩哔哩",
+						"author": {
+							"name": "买一个apple吃",
+							"UID": "3494376944700103"
+						},
+						"website": "www.bilibili.com"
+					},
+					"Github": {
+						"country_version": "International",
+						"is_the_real_name": 1,
+						"author": {
+							"name": "eat11apple"
+						},
+						"website": "github.com"
+					},
+					"YouTube": {
+						"country_version": "International",
+						"is_the_real_name": 1,
+						"author": {
+							"name": "Buy an apple"
+						},
+						"website": "www.youtube.com"
+					},
+					"Fackbook": {
+						"country_version": "International",
+						"is_the_real_name": 1,
+						"author": {
+							"name": "Sonky Lee"
+						},
+						"website": "www.facebook.com"
+					}
+				}
+			}
+		}
+	}
+}
