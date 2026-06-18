@@ -20,7 +20,7 @@ Use **only Resource Pack & Data Pack** to add some new Jukebox Songs in *Minecra
 ## Added Music List
 
 <div style="display:flex;">
-<img src="./res/music_icon/gjmmczzn.png" alt="高阶萌妹成长指南" width="50vw" height="50vw">
+<img src="res/music_icon/gjmmczzn.png" alt="高阶萌妹成长指南" width="50vw" height="50vw">
 <div style="display:initial;padding-left:5%;width:50vw;height:50vw;">
 <h3>高级萌妹成长指南</h3>
 <div style="text-align:right;">—— Hanser</div>
