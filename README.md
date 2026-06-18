@@ -22,4 +22,4 @@ Use **only Resource Pack & Data Pack** to add some new Jukebox Songs in *Minecra
 Author: **Hanser**
 
 To Listen  
-<a href="https://y.music.163.com/m/song?id=1962060311" style="color:white;underline:none;"><img src="res/app_icon/netease_cloud_music.png" width="11px" height="11px">NetEase Cloud Music</a>
+<a href="https://y.music.163.com/m/song?id=1962060311" style="color:white;underline:none;"><img src="res/app_icon/netease_cloud_music.png" width="13px" height="13px">NetEase Cloud Music</a>
